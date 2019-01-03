@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/action_bar_setting"
+    android:enabled="true"
+    android:icon="@drawable/ic_settings_black_24dp"
+    android:title="설정"></item>
+
+    <item
+        android:id="@+id/action_bar_refresh"
+        android:enabled="true"
+        android:icon="@drawable/ic_refresh_black_24dp"
+        android:title="새로고침"></item>
+</menu>

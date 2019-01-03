@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="메시지 알림">
+
+        <PreferenceScreen
+            android:key="button_login"
+            android:title="로그인"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:summary=""></PreferenceScreen>
+
+        <SwitchPreference
+            android:key="message"
+            android:title="알림 수신 동의"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            />
+
+
+        <PreferenceScreen
+            android:key="lastest_version"
+            android:icon="@drawable/ic_version_outline_black_24dp"
+            android:title="현재버전 1.0"></PreferenceScreen>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
