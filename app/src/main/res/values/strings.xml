@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TalktalkClick</string>
+    <string name="app_name">톡톡클릭</string>
     <string name="Login">로그인</string>
     <string name="Username">아이디</string>
     <string name="Button_Login">확인</string>
