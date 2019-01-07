@@ -1,5 +1,4 @@
-package talktalkclick.anpr.com.talktalkclick;
-
+package kr.co.anpr.talktalkclick;
 import android.webkit.WebViewClient;
 
 /**

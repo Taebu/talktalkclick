@@ -1,4 +1,4 @@
-package talktalkclick.anpr.com.talktalkclick;
+package kr.co.anpr.talktalkclick;
 
 import android.app.ActionBar;
 import android.app.Activity;

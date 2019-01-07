@@ -1,4 +1,4 @@
-package talktalkclick.anpr.com.talktalkclick;
+package kr.co.anpr.talktalkclick;
 
 /**
  * Created by Jung-Hum Cho on 12/28/18.
