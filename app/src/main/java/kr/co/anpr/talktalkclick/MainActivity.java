@@ -45,6 +45,8 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
 
         super.onCreate(savedInstanceState);
 
+        MyFireBaseMessagingService myFireBaseMessagingService = new MyFireBaseMessagingService();
+        myFireBaseMessagingService.onTokenRefresh();
 
         if (android.os.Build.VERSION.SDK_INT > 9)
         {
@@ -287,4 +289,6 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
 
         }
     }
+
+
 }

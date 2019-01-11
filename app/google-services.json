@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "496060468342",
+    "firebase_url": "https://api-project-496060468342.firebaseio.com",
+    "project_id": "api-project-496060468342",
+    "storage_bucket": "api-project-496060468342.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496060468342:android:55757c928446bd68",
+        "android_client_info": {
+          "package_name": "com.anp.bossapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496060468342-q3t964u2p4u0e4seg4ji7nm26victqks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPe0DArOiRUgqXDXG0fYIqwK4p3lMJ4IY"
+        },
+        {
+          "current_key": "AIzaSyCelweAqDW0W9VUH0rdlCsfY18FMSf4Lww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496060468342:android:50e9331821f71812",
+        "android_client_info": {
+          "package_name": "kr.co.anpr.talktalkclick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496060468342-mkk940e4oclt8j5eligdruegcbk6c3nt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.co.anpr.talktalkclick",
+            "certificate_hash": "155d615e2e6e86ff92d7fdea69c341699e15e28d"
+          }
+        },
+        {
+          "client_id": "496060468342-q3t964u2p4u0e4seg4ji7nm26victqks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPe0DArOiRUgqXDXG0fYIqwK4p3lMJ4IY"
+        },
+        {
+          "current_key": "AIzaSyCelweAqDW0W9VUH0rdlCsfY18FMSf4Lww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496060468342-q3t964u2p4u0e4seg4ji7nm26victqks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496060468342:android:92f4e33d32c6e2f9",
+        "android_client_info": {
+          "package_name": "kr.co.cashqc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496060468342-q3t964u2p4u0e4seg4ji7nm26victqks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPe0DArOiRUgqXDXG0fYIqwK4p3lMJ4IY"
+        },
+        {
+          "current_key": "AIzaSyCelweAqDW0W9VUH0rdlCsfY18FMSf4Lww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
